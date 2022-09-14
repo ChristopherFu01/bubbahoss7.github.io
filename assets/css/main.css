@@ -37,6 +37,11 @@ ol, ul {
 	list-style: none;
 }
 
+.circular--square {
+	border-radius:  50%;
+	border:  5px solid #000;
+}
+
 blockquote, q {
 	quotes: none;
 }

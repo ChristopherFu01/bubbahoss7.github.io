@@ -1,13 +1,14 @@
-Website Portfolio for Christopher Fu
+Greetings! My name is Christopher Fu :)
 
-Link: https://bubbahoss7.github.io/
+This is my portfolio for my website! In it, you will find tabs directing to each topic concerning my bio, recent projects, career/work experiences, and contact.
 
-University of California, Los Angeles 2024
-B.A. Mathematics, Data Theory
+Christopher Fu
+University of California, Los Angeles - Fall 2020 to Spring 2024
+B.S. Mathematics, Data Theory - GPA: 3.78
+Currently a 3rd Year
 
-GPA: 3.78
 
-Contact: christopherfuwas@gmail.com | christopherfu01@g.ucla.edu
+
 
 
 

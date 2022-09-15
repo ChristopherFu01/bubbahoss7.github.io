@@ -56,6 +56,12 @@ table {
 	border-spacing: 0;
 }
 
+br {
+	display:  block;
+	content: "";
+	margin-top: 2;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
@@ -75,6 +81,10 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+}
+
+.bot-icon-homepage {
+	float: left;
 }
 
 /* Basic */

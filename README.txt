@@ -17,4 +17,3 @@ Currently a 3rd Year
 
 
 
-Copy/Paste HERE to view my website! Link: https://bubbahoss7.github.io/

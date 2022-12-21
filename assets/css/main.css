@@ -84,7 +84,8 @@ input, select, textarea {
 }
 
 .bot-icon-homepage {
-	float: left;
+	position: relative;
+	left:  100px;
 }
 
 /* Basic */
